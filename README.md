@@ -22,8 +22,9 @@ A Telegram Video Compressor Bot By **This bot works for all!** No need to define
 * [AbirHasan2005](https://github.com/AbirHasan2005)
 
 ## Follow on:
+## Follow on:
 <p align="left">
-<a href="https://telegram.me/arupbotsofficial"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?logo=telegram"></a>
+<a href="https://telegram.me/arupbotsofficial"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Arup%20Bots-darkblue?logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/arupmandal"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
@@ -32,7 +33,7 @@ A Telegram Video Compressor Bot By **This bot works for all!** No need to define
 <a href="https://twitter.com/iamarupmandal"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/iamarupmandal"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?logo=instagram"></a>
+<a href="https://instagram.com/iamarupmandal"><img src="https://img.shields.io/badge/Instagram-iamarupmandal-magenta?logo=instagram"></a>
 </p>
 
 ## Donate:
